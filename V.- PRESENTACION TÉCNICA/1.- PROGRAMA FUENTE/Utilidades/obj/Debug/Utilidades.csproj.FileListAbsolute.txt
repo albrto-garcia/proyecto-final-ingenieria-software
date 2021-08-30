@@ -1,0 +1,108 @@
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\credentials.json
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Utilidades.dll.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Core.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.Herramientas.Form.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.Herramientas.TextBox.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.Imagenes.ImagesResources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.Properties.Resources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.csproj.CopyComplete
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Reportes\Factura_Rentas.rdlc
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\credentials.json
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Utilidades.dll.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\EN\Utilidades.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\FR\Utilidades.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Core.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.Herramientas.Form.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.Herramientas.TextBox.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.Idiomas.StringResources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.Imagenes.ImagesResources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.Properties.Resources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.Idiomas.StringResources.EN.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.Idiomas.StringResources.FR.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\EN\Utilidades.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\FR\Utilidades.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.csproj.CopyComplete
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC - Defectuoso\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\credentials.json
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Utilidades.dll.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Core.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.Herramientas.Form.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.Herramientas.TextBox.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.Imagenes.ImagesResources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.Properties.Resources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.csproj.CopyComplete
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Utilidades\obj\Debug\Utilidades.pdb

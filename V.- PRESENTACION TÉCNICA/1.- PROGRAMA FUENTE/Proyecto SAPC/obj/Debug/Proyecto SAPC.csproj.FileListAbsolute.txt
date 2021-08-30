@@ -1,0 +1,204 @@
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\credentials.json
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Proyecto SAPC.exe.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Proyecto SAPC.exe
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Proyecto SAPC.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Video.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\zxing.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\zxing.presentation.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\EnvDTE80.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\VSLangProj.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\VSLangProj80.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\VSLangProj2.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Utilidades.dll.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Video.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Core.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\zxing.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\zxing.presentation.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.exe.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Ajustes.Backup.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Consultas.Articulos.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Consultas.Suplidores.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Login.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Mantenimientos.Crear.Suplidores.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Mantenimientos.Crear.Tipos_Identificaciones.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Mantenimientos.Imagenes.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Menu.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Properties.Resources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.SplashScreen.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.CopyComplete
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.exe
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Procesos.Basicos.Reparaciones.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Controls.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\BasselTech CamCapture.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Imaging.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Math.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Controls.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Imaging.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Math.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Procesos.Extendidos.Predicciones.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\III.- PRESENTACION TÉCNICA\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Consultas.Suplidores_Vs_Fallos.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\credentials.json
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Proyecto SAPC.exe.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Proyecto SAPC.exe
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Proyecto SAPC.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Controls.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Video.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\zxing.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\zxing.presentation.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Imaging.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Math.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\EnvDTE80.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\VSLangProj.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\VSLangProj80.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\VSLangProj2.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Utilidades.dll.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Controls.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Video.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Core.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\zxing.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\zxing.presentation.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Imaging.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\AForge.Math.xml
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.exe.config
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Ajustes.Backup.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Consultas.Articulos.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Consultas.Suplidores_Vs_Fallos.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Consultas.Suplidores.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Login.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Mantenimientos.Crear.Suplidores.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Mantenimientos.Crear.Tipos_Identificaciones.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Mantenimientos.Imagenes.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Menu.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Procesos.Basicos.Reparaciones.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Procesos.Extendidos.Predicciones.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.Properties.Resources.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto_SAPC.SplashScreen.resources
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.csproj.CopyComplete
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.exe
+C:\Users\Usuario\Documents\MEGAsync\ALBERT\INGENIERÍA SOFTWARE\INGENIERÍA DE SOFTWARE - SAPC\V.- PRESENTACION TÉCNICA\1.- PROGRAMA FUENTE\Proyecto SAPC\Proyecto SAPC\obj\Debug\Proyecto SAPC.pdb
